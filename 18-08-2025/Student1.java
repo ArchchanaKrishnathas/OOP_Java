@@ -17,17 +17,19 @@ class Student1{
 	}
 	
 	int CalcTotal(){
-		int total= this.m1+ this.m2+this.m3;
+		int total= 0;
+		total= this.m1+ this.m2+this.m3;
 		return total;
 	}
 	
 	double CalcAverage(int total){
-		double average= total/ 3;
+		double average= 0.0;
+		average= total/ 3.0;
 		return  average;
 	}
 	
 	char getResult(double avg){	
-		char result;
+		char result = '/u000';
 		if (avg>=75){
 			result='A';
 		}else if (avg>=65) {
