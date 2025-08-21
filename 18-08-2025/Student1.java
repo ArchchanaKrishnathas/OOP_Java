@@ -29,7 +29,7 @@ class Student1{
 	}
 	
 	char getResult(double avg){	
-		char result = '/u000';
+		char result = '\u0000';
 		if (avg>=75){
 			result='A';
 		}else if (avg>=65) {

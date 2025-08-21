@@ -6,7 +6,7 @@ class Employee{
 	
 	void setEmployee(){
 		id= 1500;
-		name= "Archchana";
+		name= "Archchana";   
 		BasicSalary= 150000;
 	}
 	

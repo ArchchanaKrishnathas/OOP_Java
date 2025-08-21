@@ -9,3 +9,4 @@ class Pen{
 		System.out.println("This is pen write method");
 	}
 }
+
