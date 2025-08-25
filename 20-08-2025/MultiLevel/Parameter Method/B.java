@@ -9,4 +9,4 @@ class B extends A{
 	void getY(){
 		System.out.println("By "+this.y);
 	}
-}
+}   
