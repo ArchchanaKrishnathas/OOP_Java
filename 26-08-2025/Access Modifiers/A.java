@@ -1,7 +1,7 @@
-private class A{
+class A{
 	int x;
 	
-	private A(){
+	protected A(){
 		this.x= 20;
 	}
 	
