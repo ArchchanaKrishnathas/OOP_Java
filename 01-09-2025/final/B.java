@@ -9,7 +9,7 @@ class B extends A{
 		System.out.println("By: "+y);
 	}
 	
-	void getX(){
-		System.out.println("Bx: "+x);
-	}
+	/*void getX(){
+		System.out.println("Bx: "+X);
+	}  */
 }
