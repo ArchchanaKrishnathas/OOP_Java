@@ -16,3 +16,4 @@ class B extends A{
 		super.getX();
 	}
 }
+

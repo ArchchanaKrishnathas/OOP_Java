@@ -52,6 +52,7 @@ class Student1{
 		System.out.println("m3: "+this.m3);
 		
 		int total= this.CalcTotal();
+		
 		double average= this.CalcAverage(total);
 		char result= this.getResult( average);
 		

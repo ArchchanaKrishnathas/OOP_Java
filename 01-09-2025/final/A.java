@@ -1,5 +1,4 @@
 class A{
-	//static final int X=10;
 	final int X;
 	
 	A(){
@@ -12,3 +11,5 @@ class A{
 		System.out.println("Az: "+z);
 	}
 }
+
+//static final int X=10;

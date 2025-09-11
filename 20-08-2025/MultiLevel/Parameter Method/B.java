@@ -8,5 +8,7 @@ class B extends A{
 	
 	void getY(){
 		System.out.println("By "+this.y);
+		System.out.println("Ax "+super.x);
 	}
 }   
+

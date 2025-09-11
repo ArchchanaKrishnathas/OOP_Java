@@ -1,11 +1,11 @@
 class A{
-	int x;
+	static int x;
 	
 	A(){
 		this.x=10;
 	}
 	
-	void getX(){
+	static void getX(){
 		System.out.println("Ax: "+x);
 	}
 }

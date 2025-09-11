@@ -9,3 +9,6 @@ class A{
 		System.out.println("Ax "+this.x);
 	}
 }
+
+
+

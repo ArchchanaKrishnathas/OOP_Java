@@ -1,6 +1,13 @@
 class MainAB{
 	public static void main(String args[]){
-	/*	A obja= new A();
+		A.getX();
+		A.x=50;
+	
+		A.getX(); 	 
+		
+	}
+}
+/*	A obja= new A();
 		obja.getX();    // 10
 		
 		A obja1= new A();
@@ -16,11 +23,3 @@ class MainAB{
 		obja1.getX();	// 10
 		obja.getX();	// 10
 	*/
-	
-	A.getX();
-	A.x=50;
-	
-	A.getX();  
-		
-	}
-}

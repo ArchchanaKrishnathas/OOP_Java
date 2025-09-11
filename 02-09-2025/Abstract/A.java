@@ -5,6 +5,6 @@ abstract class A{
 		this.x=10;
 	}
 	
-	abstract void getX();
-		
+	abstract void getX();	
 }
+

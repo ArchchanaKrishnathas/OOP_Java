@@ -13,3 +13,4 @@ class B implements A{
 		System.out.println("Ax: "+x);
 	}
 }
+
